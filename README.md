@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AkshatRaiShrivastava/Leetcode/tree/master/0001-two-sum) |
 | [0493-reverse-pairs](https://github.com/AkshatRaiShrivastava/Leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Search
 |  |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/AkshatRaiShrivastava/Leetcode/tree/master/0493-reverse-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AkshatRaiShrivastava/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
